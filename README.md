@@ -1,2 +1,26 @@
 # graphics-cfg
 Sample configuration files for LaTeX2e color and graphics
+
+Note that these files are, as far as possible, in the public domain
+and may be edited to suit the distribution being used.
+
+Specifically they are released under the CC0 1.0 Universal licence
+ https://creativecommons.org/publicdomain/zero/1.0/
+
+
+They may be edited by end users, but more commonly should be edited
+by maintainers of TeX distributions to detect a suitable range of
+package options for the tex systems and dvi drivers available.
+
+
+These color and graphics configurations will make the color and
+graphics packages default option be
+luatex, pdftex, vtex, xetex or dvips.
+Note that pdftex option is used for luatex versions older than
+luatex 0.87.
+
+graphics.cfg also has code to enable EPS to PDF conversion if used
+with pdftex, this code may be moved to pdftex.def later.
+
+
+
