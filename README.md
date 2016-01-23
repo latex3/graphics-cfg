@@ -24,3 +24,10 @@ with pdftex, this code may be moved to pdftex.def later.
 
 
 
+These files are currently maintained by the LaTeX3 project but
+incorporating work by Thomas Esser, Heiko Oberdiek, Sebastian Rahtz,
+Karl Berry and others.
+
+Issues and chane suggestions may be raised at github:
+
+https://github.com/latex3/graphics-cfg/issues
