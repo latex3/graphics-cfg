@@ -19,9 +19,6 @@ luatex, pdftex, vtex, xetex or dvips.
 Note that pdftex option is used for luatex versions older than
 luatex 0.87.
 
-graphics.cfg also has code to enable EPS to PDF conversion if used
-with pdftex, this code may be moved to pdftex.def later.
-
 
 
 These files are currently maintained by the LaTeX3 project but
