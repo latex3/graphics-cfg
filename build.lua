@@ -14,6 +14,9 @@ typesetfiles =
   {
   }
 
+
+installfiles = {"graphics.cfg"}
+
 -- No automated tests for this bundle
 testfildir = ""
 
